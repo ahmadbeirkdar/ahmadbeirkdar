@@ -1,29 +1,36 @@
-### Hi there 👋
 
-Hey there! I am Ahmad, based in Toronto, Canada. I have a love for academia, books, and history. I also adore coffee! Anything from espressos, cortado to siphon coffee. I am currently a Computer Engineering Major, and a Computer Science Minor. I know/love C++, Rust and Python.
+## 👋 Hi there 
 
-Saying that, I also know C, Lua, and PHP, but I work more in C++ and Python.
-
-
-### Contact:
-
-http://ahmad.ltd
-
-https://www.linkedin.com/in/ahmadbe/
+Hey there! I am Ahmad, based in Toronto, Canada. 
+I have a love for academia, books, and history. I also adore coffee! Anything from espressos, cortado to siphon coffee.
+ I am currently a Computer Engineering Major, and a Computer Science Minor. I know/love C++, Rust and Python.
 
 
+## ⚡ Languages/Tech
 
-<!--
-**ahmadbeirkdar/ahmadbeirkdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - C++ - Libraries: Qt5, Boost, MongoCXX, GNU MP, STL
+ - Python   - Libraries: PyQt5, etc
+ -  Rust
+ -  C
+ - Reversing: Ghidra, IDA Pro
+ -  Database: MySQL, MongoDB
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  💻 My Stuff
+
+ - IDE: Clion 
+ - Text Editors: VIM, VS Code
+ - Desktop:
+			 -  CPU: I7 10700k @ 5.3GHz
+			 -  RAM: 64GB 3600MHz
+			 - GPU: RX580 8GB
+			 - OS: MacOS (Hackintosh)
+- Laptop:
+			- MacBook Pro 15inch 
+
+## 📫  Contact Me:
+
+ - Site: http://ahmad.ltd
+ - LinkedIn: https://www.linkedin.com/in/ahmadbe/
+ - Keybase: https://keybase.io/ahmadb
+ - Telegram: https://t.me/ahmadb123
