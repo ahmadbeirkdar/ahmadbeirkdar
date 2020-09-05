@@ -21,8 +21,8 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
  
 ##  👀 What I Am Working on atm
 
+- A SIS, Student Managment System. Written in C++20 with Qt5, full GSuite integration & Google Classroom. Closed source. Most of my recent commits are for it :P
 - Big number arithmetic library in Rust for the purpose of Cryptography
-- A SIS, Student Managment System, Written in C++20 with Qt5, closed source 
 
 ##  💻 My Stuff
 
