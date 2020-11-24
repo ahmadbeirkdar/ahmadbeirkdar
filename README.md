@@ -37,15 +37,27 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
 
 <details><summary>💻 My Stuff</summary>
 <p>
- - IDE: Clion - C++ and Rust
- - Text Editors: VIM, VS Code
- - Desktop:
-			 -  CPU: I7 10700k @ 5.3GHz
-			 -  RAM: 64GB 3600MHz
-			 - GPU: RX580 8GB
-			 - OS: MacOS (Hackintosh)
+	
+- IDE: Clion - C++ and Rust
+	
+- Text Editors: VIM, VS Code
+
+&nbsp;
+- Desktop:
+
+-  CPU: I7 10700k @ 5.3GHz
+
+-  RAM: 64GB 3600MHz
+
+- GPU: RX580 8GB
+
+- OS: MacOS (Hackintosh)
+
+&nbsp;
 - Laptop:
-			- MacBook Pro 15inch, i7, 16GB Ram
+
+- MacBook Pro 15inch, i7, 16GB Ram
+
 
 </p>
 </details>
