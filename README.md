@@ -28,8 +28,9 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
 <details><summary>👀 What I Am Working on atm</summary>
 <p>
 
-- A SIS, Student Managment System. Written in C++20 with Qt5, full GSuite integration & Google Classroom. Closed source. Most of my recent commits are for it :P
-- Big number arithmetic library in Rust for the purpose of Cryptography
+- School wide managment system. Written in C++20, Qt6. Manages GSuite, and GClass. Report card, and marking management. Closed source. 95% of my private commits are to it. 
+
+- SIDH-CPP, check out the repo https://github.com/ahmadbeirkdar/SIDH-CPP
  
 </p>
 </details>
