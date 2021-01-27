@@ -3,12 +3,11 @@
 
 Hey there! I am Ahmad, based in Toronto, Canada. 
 I have a love for academia, books, and history. I also adore coffee! Anything from espressos, cortado to siphon coffee.
-I am currently a Computer Engineering Major, and a Computer Science Minor. I know/love C++, Rust and Python.
+I am currently a Computer Engineering Major, and a Computer Science Minor.
 
-I am interested in C++(The Standard), Reverse Engineering, Language Development, Compilers, Operating Systems, and Cryptography.
+I have a love and passion for Modern C++. I also love compilers, operating systems, and cryptography.
 
 Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
-
 
 
 <details><summary>⚡ Languages/Tech</summary>
