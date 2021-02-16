@@ -47,7 +47,7 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
 
 -  CPU: I7 10700k @ 5.3GHz
 
--  RAM: 64GB 3600MHz
+-  RAM: 128GB 3600MHz
 
 - GPU: RX580 8GB
 
@@ -66,6 +66,7 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
 ## 📫  Contact Me:
 
  - Site: http://ahmad.ltd
+ - Twitter: https://twitter.com/Ahmadbeir
  - LinkedIn: https://www.linkedin.com/in/ahmadbe/
  - Keybase: https://keybase.io/ahmadb
  - Telegram: https://t.me/ahmadb123
