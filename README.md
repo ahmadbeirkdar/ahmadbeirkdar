@@ -1,6 +1,9 @@
 
 ## 👋 Hi there 
 
+<details><summary>About Me</summary>
+<p>
+
 Hey there! I am Ahmad, based in Toronto, Canada. 
 I have a love for academia, books, and history. I also adore coffee! Anything from espressos, cortado to siphon coffee.
 I am currently a Computer Engineering Major, and a Computer Science Minor.
@@ -8,7 +11,9 @@ I am currently a Computer Engineering Major, and a Computer Science Minor.
 I have a love and passion for Modern C++. I also love compilers, operating systems, and cryptography.
 
 Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
-
+ 
+</p>
+</details>
 
 <details><summary>⚡ Languages/Tech</summary>
 <p>
@@ -71,3 +76,5 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
  - Keybase: https://keybase.io/ahmadb
  - Telegram: https://t.me/ahmadb123
  - Discord: 1337#0001
+
+<a href="https://gitpets.herokuapp.com/user/ahmadbeirkdar"><img src="https://gitpets.herokuapp.com/pet/ahmadbeirkdar"></a>
