@@ -76,5 +76,3 @@ Feel free to hit me up on LinkedIn, Discord or Telegram. Always happy to discuss
  - Keybase: https://keybase.io/ahmadb
  - Telegram: https://t.me/ahmadb123
  - Discord: 1337#0001
-
-<a href="https://gitpets.herokuapp.com/user/ahmadbeirkdar"><img src="https://gitpets.herokuapp.com/pet/ahmadbeirkdar"></a>
