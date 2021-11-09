@@ -1,6 +1,6 @@
 
 ## 👋 Hi there 
-Hey there! I am Ahmad 🌸. Let's chat n' stuff. Down to chat about anything coffee, cooking, & obviously programming :). I like C++, Rust and Generic code. API & code design is one of my passions.
+Hey there! I am Ahmad 🌸. Let's chat n' stuff. Down to chat about anything coffee, cooking, & obviously programming :). I like C++, Rust and Generic code. API & code design are one of my passions.
 
 
 ## 📫  Contact Me:
