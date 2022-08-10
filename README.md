@@ -16,7 +16,7 @@ My work is split up 50 50, half goes to my work work, the other to a project I'v
 
 It's in educational tech, I pour my soul & tears towards it. I love it. I don't get to talk much about it. 
 
-Anyways, feel free to reach out. I always like meeting new people.
+Anyways, feel free to reach out. I always like meeting new people 🫶🏻
 
 
 ## 📫  Contact Me:
